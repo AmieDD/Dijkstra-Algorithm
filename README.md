@@ -90,4 +90,4 @@ namespace DijkstraAlgorithm
 }
 ```
 
-Run the demo on repl.it https://repl.it/@AmieDD/C-Shortest-Path-Dijkstra-Algorithm
+[![Run on Repl.it](https://repl.it/badge/github/AmieDD/Dijkstra-Algorithm)](https://repl.it/github/AmieDD/Dijkstra-Algorithm)
